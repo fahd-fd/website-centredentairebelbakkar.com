@@ -1,6 +1,20 @@
 'use strict';
 
 
+/** this website By 
+Fahd Content Writer
+{
+his instagram: https://www.instagram.com/healthlinkmedia/ 
+}
+Abdelkabir web devaloper
+{ 
+My instagram: https://www.instagram.com/abbir.ar
+and 
+My website: https://abbir-ar.github.io/abdelkabir/ 
+}
+*/
+
+
 
 /**
  * addEvent on element
@@ -58,6 +72,4 @@ window.addEventListener("scroll", function () {
     backTopBtn.classList.remove("active");
   }
 });
-
-
 
